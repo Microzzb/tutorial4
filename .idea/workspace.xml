@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31dbdba6-ff3f-4788-af79-2bff39c38c8b" name="Changes" comment="added files" />
+    <list default="true" id="31dbdba6-ff3f-4788-af79-2bff39c38c8b" name="Changes" comment="added files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="d45e312a-d2f4-4f64-b809-074338f2c697" />
@@ -92,7 +97,12 @@
       <workItem from="1696562957794" duration="618000" />
       <workItem from="1696568477956" duration="737000" />
       <workItem from="1696671224820" duration="527000" />
-      <workItem from="1696671759117" duration="559000" />
+      <workItem from="1696671759117" duration="1138000" />
+      <workItem from="1696673516936" duration="232000" />
+      <workItem from="1696673833358" duration="241000" />
+      <workItem from="1696674174636" duration="56000" />
+      <workItem from="1696677179325" duration="231000" />
+      <workItem from="1696677613223" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1696671901052</created>
@@ -101,11 +111,48 @@
       <option name="project" value="LOCAL" />
       <updated>1696671901052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added files">
+      <created>1696672447126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696672447126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added files">
+      <created>1696677815799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696677815799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added files" />
